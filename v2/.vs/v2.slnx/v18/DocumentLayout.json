@@ -1,0 +1,354 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oliver\\tunerswap\\v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\ui\\routes.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\plugins\\marketplace\\ui\\routes.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\services\\seller-profile.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\plugins\\marketplace\\services\\seller-profile.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\strategies\\order-seller.strategy.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\plugins\\marketplace\\strategies\\order-seller.strategy.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\strategies\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\plugins\\marketplace\\strategies\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\entities\\seller-profile.entity.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\plugins\\marketplace\\entities\\seller-profile.entity.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\marketplace.plugin.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\plugins\\marketplace\\marketplace.plugin.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oliver\\tunerswap\\v2\\src\\vendor-api\\sync-worker.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\vendor-api\\sync-worker.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oliver\\tunerswap\\v2\\src\\vendor-api\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\vendor-api\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oliver\\tunerswap\\v2\\src\\vendor-api\\resolvers.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\vendor-api\\resolvers.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\PLUGIN_STRUCTURE_GUIDE.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\plugins\\PLUGIN_STRUCTURE_GUIDE.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\api\\api-extensions.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\plugins\\marketplace\\api\\api-extensions.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oliver\\tunerswap\\v2\\src\\vendure-config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\vendure-config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oliver\\tunerswap\\v2\\src\\email\\dynamic-email-handlers.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\email\\dynamic-email-handlers.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oliver\\tunerswap\\v2\\static\\email\\templates\\email-verification\\body.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:static\\email\\templates\\email-verification\\body.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\plugins\\marketplace\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\plugins\\marketplace\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\strategies\\shipping-eligibility.checker.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\plugins\\marketplace\\strategies\\shipping-eligibility.checker.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\strategies\\shipping-line-assignment.strategy.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\plugins\\marketplace\\strategies\\shipping-line-assignment.strategy.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\api\\seller-profile-admin.resolver.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\plugins\\marketplace\\api\\seller-profile-admin.resolver.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\filters\\product-type-collection-filter.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\plugins\\marketplace\\filters\\product-type-collection-filter.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "sync-worker.ts",
+              "DocumentMoniker": "C:\\Users\\oliver\\tunerswap\\v2\\src\\vendor-api\\sync-worker.ts",
+              "RelativeDocumentMoniker": "src\\vendor-api\\sync-worker.ts",
+              "ToolTip": "C:\\Users\\oliver\\tunerswap\\v2\\src\\vendor-api\\sync-worker.ts",
+              "RelativeToolTip": "src\\vendor-api\\sync-worker.ts",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-16T04:06:23.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "resolvers.ts",
+              "DocumentMoniker": "C:\\Users\\oliver\\tunerswap\\v2\\src\\vendor-api\\resolvers.ts",
+              "RelativeDocumentMoniker": "src\\vendor-api\\resolvers.ts",
+              "ToolTip": "C:\\Users\\oliver\\tunerswap\\v2\\src\\vendor-api\\resolvers.ts",
+              "RelativeToolTip": "src\\vendor-api\\resolvers.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-16T04:05:41.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index.ts",
+              "DocumentMoniker": "C:\\Users\\oliver\\tunerswap\\v2\\src\\vendor-api\\index.ts",
+              "RelativeDocumentMoniker": "src\\vendor-api\\index.ts",
+              "ToolTip": "C:\\Users\\oliver\\tunerswap\\v2\\src\\vendor-api\\index.ts",
+              "RelativeToolTip": "src\\vendor-api\\index.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-16T04:05:38.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PLUGIN_STRUCTURE_GUIDE.md",
+              "DocumentMoniker": "C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\PLUGIN_STRUCTURE_GUIDE.md",
+              "RelativeDocumentMoniker": "src\\plugins\\PLUGIN_STRUCTURE_GUIDE.md",
+              "ToolTip": "C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\PLUGIN_STRUCTURE_GUIDE.md",
+              "RelativeToolTip": "src\\plugins\\PLUGIN_STRUCTURE_GUIDE.md",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-12-16T04:04:45.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "vendure-config.ts",
+              "DocumentMoniker": "C:\\Users\\oliver\\tunerswap\\v2\\src\\vendure-config.ts",
+              "RelativeDocumentMoniker": "src\\vendure-config.ts",
+              "ToolTip": "C:\\Users\\oliver\\tunerswap\\v2\\src\\vendure-config.ts",
+              "RelativeToolTip": "src\\vendure-config.ts",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAwEoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-16T00:43:26.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dynamic-email-handlers.ts",
+              "DocumentMoniker": "C:\\Users\\oliver\\tunerswap\\v2\\src\\email\\dynamic-email-handlers.ts",
+              "RelativeDocumentMoniker": "src\\email\\dynamic-email-handlers.ts",
+              "ToolTip": "C:\\Users\\oliver\\tunerswap\\v2\\src\\email\\dynamic-email-handlers.ts",
+              "RelativeToolTip": "src\\email\\dynamic-email-handlers.ts",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAwF4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-16T00:36:55.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "body.hbs",
+              "DocumentMoniker": "C:\\Users\\oliver\\tunerswap\\v2\\static\\email\\templates\\email-verification\\body.hbs",
+              "RelativeDocumentMoniker": "static\\email\\templates\\email-verification\\body.hbs",
+              "ToolTip": "C:\\Users\\oliver\\tunerswap\\v2\\static\\email\\templates\\email-verification\\body.hbs",
+              "RelativeToolTip": "static\\email\\templates\\email-verification\\body.hbs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-16T00:35:18.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\README.md",
+              "RelativeDocumentMoniker": "src\\plugins\\marketplace\\README.md",
+              "ToolTip": "C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\README.md",
+              "RelativeToolTip": "src\\plugins\\marketplace\\README.md",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-12-14T07:07:27.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "marketplace.plugin.ts",
+              "DocumentMoniker": "C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\marketplace.plugin.ts",
+              "RelativeDocumentMoniker": "src\\plugins\\marketplace\\marketplace.plugin.ts",
+              "ToolTip": "C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\marketplace.plugin.ts",
+              "RelativeToolTip": "src\\plugins\\marketplace\\marketplace.plugin.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-14T07:07:26.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "index.ts",
+              "DocumentMoniker": "C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\index.ts",
+              "RelativeDocumentMoniker": "src\\plugins\\marketplace\\index.ts",
+              "ToolTip": "C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\index.ts",
+              "RelativeToolTip": "src\\plugins\\marketplace\\index.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-14T07:07:25.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "routes.tsx",
+              "DocumentMoniker": "C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\ui\\routes.tsx",
+              "RelativeDocumentMoniker": "src\\plugins\\marketplace\\ui\\routes.tsx",
+              "ToolTip": "C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\ui\\routes.tsx",
+              "RelativeToolTip": "src\\plugins\\marketplace\\ui\\routes.tsx",
+              "ViewState": "AgIAAGkZAAAAAAAAAAAiwJ0bAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-14T06:50:10.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "seller-profile.service.ts",
+              "DocumentMoniker": "C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\services\\seller-profile.service.ts",
+              "RelativeDocumentMoniker": "src\\plugins\\marketplace\\services\\seller-profile.service.ts",
+              "ToolTip": "C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\services\\seller-profile.service.ts",
+              "RelativeToolTip": "src\\plugins\\marketplace\\services\\seller-profile.service.ts",
+              "ViewState": "AgIAAHYBAAAAAAAAAAAgwBgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-13T17:31:23.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.ts",
+              "DocumentMoniker": "C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\strategies\\index.ts",
+              "RelativeDocumentMoniker": "src\\plugins\\marketplace\\strategies\\index.ts",
+              "ToolTip": "C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\strategies\\index.ts",
+              "RelativeToolTip": "src\\plugins\\marketplace\\strategies\\index.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-13T17:31:20.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "order-seller.strategy.ts",
+              "DocumentMoniker": "C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\strategies\\order-seller.strategy.ts",
+              "RelativeDocumentMoniker": "src\\plugins\\marketplace\\strategies\\order-seller.strategy.ts",
+              "ToolTip": "C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\strategies\\order-seller.strategy.ts",
+              "RelativeToolTip": "src\\plugins\\marketplace\\strategies\\order-seller.strategy.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-13T17:30:19.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "shipping-eligibility.checker.ts",
+              "DocumentMoniker": "C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\strategies\\shipping-eligibility.checker.ts",
+              "RelativeDocumentMoniker": "src\\plugins\\marketplace\\strategies\\shipping-eligibility.checker.ts",
+              "ToolTip": "C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\strategies\\shipping-eligibility.checker.ts",
+              "RelativeToolTip": "src\\plugins\\marketplace\\strategies\\shipping-eligibility.checker.ts",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-13T17:29:04.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "shipping-line-assignment.strategy.ts",
+              "DocumentMoniker": "C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\strategies\\shipping-line-assignment.strategy.ts",
+              "RelativeDocumentMoniker": "src\\plugins\\marketplace\\strategies\\shipping-line-assignment.strategy.ts",
+              "ToolTip": "C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\strategies\\shipping-line-assignment.strategy.ts",
+              "RelativeToolTip": "src\\plugins\\marketplace\\strategies\\shipping-line-assignment.strategy.ts",
+              "ViewState": "AgIAADgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-13T17:26:20.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "seller-profile.entity.ts",
+              "DocumentMoniker": "C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\entities\\seller-profile.entity.ts",
+              "RelativeDocumentMoniker": "src\\plugins\\marketplace\\entities\\seller-profile.entity.ts",
+              "ToolTip": "C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\entities\\seller-profile.entity.ts",
+              "RelativeToolTip": "src\\plugins\\marketplace\\entities\\seller-profile.entity.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-13T17:24:37.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "seller-profile-admin.resolver.ts",
+              "DocumentMoniker": "C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\api\\seller-profile-admin.resolver.ts",
+              "RelativeDocumentMoniker": "src\\plugins\\marketplace\\api\\seller-profile-admin.resolver.ts",
+              "ToolTip": "C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\api\\seller-profile-admin.resolver.ts",
+              "RelativeToolTip": "src\\plugins\\marketplace\\api\\seller-profile-admin.resolver.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPACAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-13T17:19:04.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "api-extensions.ts",
+              "DocumentMoniker": "C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\api\\api-extensions.ts",
+              "RelativeDocumentMoniker": "src\\plugins\\marketplace\\api\\api-extensions.ts",
+              "ToolTip": "C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\api\\api-extensions.ts",
+              "RelativeToolTip": "src\\plugins\\marketplace\\api\\api-extensions.ts",
+              "ViewState": "AgIAAE4CAAAAAAAAAAAAAIoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-13T17:18:08.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "product-type-collection-filter.ts",
+              "DocumentMoniker": "C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\filters\\product-type-collection-filter.ts",
+              "RelativeDocumentMoniker": "src\\plugins\\marketplace\\filters\\product-type-collection-filter.ts",
+              "ToolTip": "C:\\Users\\oliver\\tunerswap\\v2\\src\\plugins\\marketplace\\filters\\product-type-collection-filter.ts",
+              "RelativeToolTip": "src\\plugins\\marketplace\\filters\\product-type-collection-filter.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-13T15:42:01.343Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

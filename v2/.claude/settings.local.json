@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir /s /b \"C:\\\\Users\\\\oliver\\\\ts-backups\\\\backup\\\\v2\")",
+      "Bash(findstr:*)",
+      "Bash(npm run build:dashboard:*)",
+      "Bash(npm run generate:*)"
+    ]
+  }
+}
